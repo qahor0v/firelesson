@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674473500212",
+    "project_id": "firelesson-94be2",
+    "storage_bucket": "firelesson-94be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674473500212:android:e4158d8e06f923651eb461",
+        "android_client_info": {
+          "package_name": "com.firelesson.zamon.firelesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCNsfz48GJhIDNSwEo1KN9oGkiUknTrKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
